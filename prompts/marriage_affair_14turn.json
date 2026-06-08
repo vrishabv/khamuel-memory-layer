@@ -1,0 +1,20 @@
+{
+  "name": "Marriage betrayal — 14 turns",
+  "context": "Wife discovered husband Mark's affair; deciding whether to stay. Living people: husband Mark, sister Rachel, two kids. Topic: marriage. No deaths.",
+  "turns": [
+    {"turn": 1, "user": "I found out my husband Mark has been having an affair. I'm shaking as I type this."},
+    {"turn": 2, "user": "We've been married eleven years. We have two kids, 8 and 5."},
+    {"turn": 3, "user": "He says it's over and he wants to fix things. I don't know if I believe him."},
+    {"turn": 4, "user": "Part of me still loves him. Part of me wants to throw him out tonight."},
+    {"turn": 5, "user": "I haven't told anyone except my sister Rachel. She says leave him immediately."},
+    {"turn": 6, "user": "I keep wondering if I did something wrong. Was I just not enough for him?"},
+    {"turn": 7, "user": "How do I even look at him across the dinner table tonight?"},
+    {"turn": 8, "user": "I'm terrified of what a divorce would do to the kids."},
+    {"turn": 9, "user": "Is it weak to want to forgive him? Everyone tells me I should be furious."},
+    {"turn": 10, "user": "We used to pray together every night. I can't even do that now."},
+    {"turn": 11, "user": "I think I need to talk to someone, but I'm so ashamed for anyone to know."},
+    {"turn": 12, "user": "Okay. I need a plan. What do I actually do this week?"},
+    {"turn": 13, "user": "Should we try counseling, or is that pointless after this kind of betrayal?"},
+    {"turn": 14, "user": "What is one thing I can say to him when he gets home tonight?"}
+  ]
+}

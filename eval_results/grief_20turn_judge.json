@@ -1,0 +1,25 @@
+{
+  "raw_scores": {
+    "topic_adherence": 5,
+    "progressive_depth": 5,
+    "cross_session_continuity": 5,
+    "rationale": "The chatbot consistently addresses the user's specific situation regarding the loss of their mother, Sarah, and their role as a working parent. Each response builds on the previous emotional context, providing deeper insights and practical steps without reverting to generic advice. The continuity from earlier turns is maintained, especially in turn 11, which references the user's struggle with prayer and grief, ensuring a seamless transition in the conversation."
+  },
+  "summary": {
+    "topic_adherence": {
+      "score": 5,
+      "target": 4.0,
+      "pass": true
+    },
+    "progressive_depth": {
+      "score": 5,
+      "target": 4.0,
+      "pass": true
+    },
+    "cross_session_continuity": {
+      "score": 5,
+      "target": 4.0,
+      "pass": true
+    }
+  }
+}

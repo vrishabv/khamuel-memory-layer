@@ -1,0 +1,26 @@
+{
+  "name": "Grief over a parent — 20 turns",
+  "context": "User is a 40-year-old working parent of two elementary-aged children. Their mother Sarah died one month ago from cancer (six weeks from diagnosis to passing, age 71). Turns 1-3 establish loss + names + role. Turns 4-12 explore doubt, anger, guilt, isolation. Turns 13-20 ask for practical next steps. The conversation is designed to surface: (a) does the bot remember Sarah by name in late turns, (b) does the bot stay on this specific grief situation vs drifting to generic faith advice, (c) does the bot progress from comfort/acknowledgment to application/next-steps without restarting basics, (d) does the bot avoid repeating itself.",
+  "turns": [
+    {"turn": 1, "user": "I lost my mom Sarah a month ago. I'm 40, working full-time, two kids in elementary school. I feel like I'm falling apart but I keep pretending I'm fine. I don't know where to start."},
+    {"turn": 2, "user": "Thank you. I keep thinking about the last conversation we had. It was so ordinary. I didn't know it would be the last one. We talked about a recipe."},
+    {"turn": 3, "user": "She was 71. Cancer. We had six weeks from diagnosis to her passing. Not enough time to say anything that mattered."},
+    {"turn": 4, "user": "I'm angry at God. I prayed. I really, really prayed. And nothing changed."},
+    {"turn": 5, "user": "How do other Christians keep believing when God doesn't answer their prayers?"},
+    {"turn": 6, "user": "I feel guilty for being angry. Is being angry at God a sin?"},
+    {"turn": 7, "user": "I haven't told my kids I'm angry at God. I don't want them to lose their faith too. They're already confused about where grandma went."},
+    {"turn": 8, "user": "Sometimes I wonder if she's really in heaven, or if I just want to believe she is so badly that I'm making myself believe it."},
+    {"turn": 9, "user": "My husband says I should talk to our pastor. But our church is small and I don't want to be a burden. Everyone there has their own problems."},
+    {"turn": 10, "user": "I haven't been to a Sunday service in three weeks. I drive to the parking lot, sit there, and cry. Then I drive home."},
+    {"turn": 11, "user": "What do you do when you can't pray? My words just stop. I open my mouth and nothing comes out."},
+    {"turn": 12, "user": "I think I might be depressed. I cried at Costco yesterday because they were out of her favorite brand of crackers."},
+    {"turn": 13, "user": "OK. Enough feelings. What can I actually DO. I need steps. I'm a project manager — I need a plan."},
+    {"turn": 14, "user": "Can you give me a daily spiritual practice that takes 10 minutes? I genuinely don't have more than 10 minutes."},
+    {"turn": 15, "user": "What's ONE scripture passage I should read this week? Just one chapter. Don't give me five options."},
+    {"turn": 16, "user": "How do I talk to my kids about grandma? They keep asking if she's watching them and I don't know what to say without lying or terrifying them."},
+    {"turn": 17, "user": "How do I get myself back to church on Sunday? What if I cry in front of everyone? I'm scared of being the sad person at the back."},
+    {"turn": 18, "user": "What am I supposed to say when people tell me 'she's in a better place'? It makes me want to scream. They don't understand."},
+    {"turn": 19, "user": "Will this feeling ever end? Honestly. I can't imagine being okay again. Tell me the truth."},
+    {"turn": 20, "user": "Thank you. I really needed this conversation. What should I do tomorrow morning when I wake up and the grief hits me again? Give me one concrete thing."}
+  ]
+}

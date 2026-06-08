@@ -1,0 +1,25 @@
+{
+  "raw_scores": {
+    "topic_adherence": 5,
+    "progressive_depth": 5,
+    "cross_session_continuity": 5,
+    "rationale": "The assistant consistently addresses the user's specific situation regarding the loss of their mother, Sarah, and their role as a working parent throughout the conversation. Each response builds on previous discussions, providing deeper insights and practical steps without reverting to generic advice. Turn 11 references the user's earlier feelings and context, maintaining continuity and demonstrating awareness of the ongoing conversation about grief and loss."
+  },
+  "summary": {
+    "topic_adherence": {
+      "score": 5,
+      "target": 4.0,
+      "pass": true
+    },
+    "progressive_depth": {
+      "score": 5,
+      "target": 4.0,
+      "pass": true
+    },
+    "cross_session_continuity": {
+      "score": 5,
+      "target": 4.0,
+      "pass": true
+    }
+  }
+}

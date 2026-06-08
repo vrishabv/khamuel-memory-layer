@@ -1,0 +1,20 @@
+{
+  "name": "Parenting a struggling teen — 14 turns",
+  "context": "Mother found drugs in son Jacob's room. Living people: son Jacob (16), husband, daughter Emma. Topic: parenting. No deaths; a struggling child must never be mourned.",
+  "turns": [
+    {"turn": 1, "user": "My son Jacob is 16 and I just found drugs in his room. I'm terrified."},
+    {"turn": 2, "user": "He used to be such a sweet kid. Now he won't even look at me."},
+    {"turn": 3, "user": "My husband thinks we should just ground him. I think it's something deeper."},
+    {"turn": 4, "user": "Jacob's grades have crashed and he's lying about where he goes at night."},
+    {"turn": 5, "user": "My younger daughter Emma is scared of her own brother now."},
+    {"turn": 6, "user": "I feel like I failed him as a mother."},
+    {"turn": 7, "user": "I prayed every night that he'd grow up safe, and now this."},
+    {"turn": 8, "user": "How do I talk to him without him shutting down completely?"},
+    {"turn": 9, "user": "Do I search his room again, or is that a betrayal of his trust?"},
+    {"turn": 10, "user": "I'm scared he'll run away if I push too hard."},
+    {"turn": 11, "user": "Should we get him into counseling or rehab? How do I even start?"},
+    {"turn": 12, "user": "Okay, I need concrete steps. What do I do first?"},
+    {"turn": 13, "user": "What do I say to Emma to help her feel safe in our home?"},
+    {"turn": 14, "user": "Give me one thing I can do tonight."}
+  ]
+}

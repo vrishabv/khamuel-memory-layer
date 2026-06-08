@@ -1,0 +1,26 @@
+{
+  "name": "Career change + relocation — 20 turns (neutral, non-grief)",
+  "context": "Daniel, 34, marine biologist, moving Seattle->Boston for a new aquarium lab job. Living people: fiancee/partner Priya, sister Maya (has 3 kids), mentor Tom (retiring), roommate Jordan. No deaths. Tests whether the memory layer generalizes off the grief scenario without inventing losses.",
+  "turns": [
+    {"turn": 1, "user": "Hey, I'm Daniel. I'm 34 and I just accepted a job offer in Boston, so I'm moving across the country from Seattle next month. My head is spinning."},
+    {"turn": 2, "user": "I work as a marine biologist, and the new role is at an aquarium research lab. It's a step up but honestly terrifying."},
+    {"turn": 3, "user": "My fiancee Priya is staying in Seattle for another six months to finish her degree, so we'll be long-distance for a while."},
+    {"turn": 4, "user": "Priya is my partner in everything, and being apart scares me more than the move itself."},
+    {"turn": 5, "user": "My sister Maya thinks I'm crazy for leaving. She's always been my person here."},
+    {"turn": 6, "user": "Maya has three kids and I'm really close with my nieces. I'll miss our Sunday dinners."},
+    {"turn": 7, "user": "I don't have kids myself, by the way. Priya and I want to wait until after the wedding."},
+    {"turn": 8, "user": "My mentor Tom encouraged me to take the leap. He said growth lives outside your comfort zone."},
+    {"turn": 9, "user": "Tom is retiring next year, which is part of why I felt okay leaving the Seattle lab."},
+    {"turn": 10, "user": "My roommate Jordan is subletting my place while I'm gone. Jordan's a lifesaver."},
+    {"turn": 11, "user": "I'm worried about money. The cost of living in Boston is brutal and my savings are thin."},
+    {"turn": 12, "user": "I've never lived more than twenty miles from where I grew up. This is the biggest change of my life."},
+    {"turn": 13, "user": "Okay, I need to get practical. Can you help me make a moving plan? I think in spreadsheets and I need concrete steps."},
+    {"turn": 14, "user": "What should I prioritize in the first week at the new lab to make a good impression?"},
+    {"turn": 15, "user": "How do I keep my relationship with Priya strong while we're 3,000 miles apart?"},
+    {"turn": 16, "user": "I also have a dog, Biscuit, a border collie. Should I fly her or drive her across?"},
+    {"turn": 17, "user": "I'm training for a marathon in the fall too, and I don't want to lose my routine in the chaos."},
+    {"turn": 18, "user": "Be honest, am I making a huge mistake leaving everyone I love for a job?"},
+    {"turn": 19, "user": "What's one thing I can do to feel less alone when I land in Boston and don't know a soul?"},
+    {"turn": 20, "user": "Thank you. What should I do on my first morning in the new apartment to start things right?"}
+  ]
+}

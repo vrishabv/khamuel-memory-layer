@@ -1,0 +1,63 @@
+{
+  "total_turns": 10,
+  "fact_recall": {
+    "late_turns_with_recall": 8,
+    "total_late_turns": 8,
+    "target_min": 3,
+    "pass": true
+  },
+  "repetition": {
+    "avg_near_dup_pairs_per_response": 0.0,
+    "per_turn": [
+      {
+        "turn": 11,
+        "near_dups": 0
+      },
+      {
+        "turn": 12,
+        "near_dups": 0
+      },
+      {
+        "turn": 13,
+        "near_dups": 0
+      },
+      {
+        "turn": 14,
+        "near_dups": 0
+      },
+      {
+        "turn": 15,
+        "near_dups": 0
+      },
+      {
+        "turn": 16,
+        "near_dups": 0
+      },
+      {
+        "turn": 17,
+        "near_dups": 0
+      },
+      {
+        "turn": 18,
+        "near_dups": 0
+      },
+      {
+        "turn": 19,
+        "near_dups": 0
+      },
+      {
+        "turn": 20,
+        "near_dups": 0
+      }
+    ],
+    "target_max": 0.5,
+    "pass": true
+  },
+  "restart_markers": {
+    "early_markers_seen": [],
+    "late_turn_reuses": [],
+    "target_max": 0,
+    "pass": true
+  },
+  "all_deterministic_pass": true
+}
